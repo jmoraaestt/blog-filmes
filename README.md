@@ -25,5 +25,4 @@ Projeto de um blog de filmes desenvolvido em **PHP**, utilizando a arquitetura *
 
 ---
 
-## 🛠 Estrutura do Projeto
 
